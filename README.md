@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Maranello or Asteria798 👨‍💻
 
-<!--
-**maranello-o/maranello-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Passionate Go developer with a love for building efficient and scalable systems.
 
-Here are some ideas to get you started:
+Enjoy solving problems and diving deep into concurrency, distributed systems, and performance optimizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on AI tool website.
+
+Currently learning: LLM and NLP.
+
+Looking to collaborate on Go-based projects and open-source contributions.
+
+## 💬 Let's Connect
+- [Email](sh.maranello@gmail.com)
+
+Feel free to reach out for collaborations, questions, or just to chat!
