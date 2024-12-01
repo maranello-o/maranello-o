@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Maranello or Asteria798 👨‍💻
+### 👋 Hi, I'm Maranello or Asteria798 👨‍💻
 
-## 🚀 About Me
+### 🚀 About Me
 Passionate Go developer with a love for building efficient and scalable systems.
 
 Enjoy solving problems and diving deep into concurrency, distributed systems, and performance optimizations.
@@ -11,7 +11,7 @@ Currently learning: LLM and NLP.
 
 Looking to collaborate on Go-based projects and open-source contributions.
 
-## 💬 Let's Connect
-- [Email](sh.maranello@gmail.com)
+### 💬 Let's Connect
+📧sh.maranello@gmail.com
 
 Feel free to reach out for collaborations, questions, or just to chat!
