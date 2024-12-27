@@ -5,7 +5,7 @@ Passionate Go developer with a love for building efficient and scalable systems.
 
 Enjoy solving problems and diving deep into concurrency, distributed systems, and performance optimizations.
 
-Currently working on AI tool website.
+Currently working on [KrillinAI](https://github.com/krillinai/KrillinAI).
 
 Currently learning: LLM and NLP.
 
