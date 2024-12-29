@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Maranello or Asteria798 👨‍💻
 
 ### 🚀 About Me
-Passionate Go developer with a love for building efficient and scalable systems.
-
-Enjoy solving problems and diving deep into concurrency, distributed systems, and performance optimizations.
+Passionate Go developer.
 
 Currently working on [KrillinAI](https://github.com/krillinai/KrillinAI).
 
